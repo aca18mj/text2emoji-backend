@@ -1,0 +1,4 @@
+emoji==2.2.0
+Flask==2.2.2
+torch==1.13.1
+transformers==4.26.1
